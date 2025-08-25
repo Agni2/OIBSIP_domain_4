@@ -63,7 +63,7 @@ def main():
         query = input("Location (or 'q' to quit): ").strip()
         
         if query.lower() == 'q':
-            print("Thanks for using the app!")
+            print("Thanks for using this platform!")
             break
         
         if not query:
